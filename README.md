@@ -1,2 +1,2 @@
 # BellaBeat-Tracker
-Analyzing and cleaning data from a fitbit to find correlations and create reports. 
+Analyzing and cleaning data from a fitbit to find correlations and create reports using R. 
